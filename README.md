@@ -1,82 +1,123 @@
-# Startup - Free Next.js Startup Website Template
+# VIVATEL — Infraestrutura Digital Soberana para Angola 🇦🇴
 
-Startup is a free, open-source, and premium-quality [**Next.js startup website template**](https://nextjstemplates.com/templates/startup) that comes with everything you need to launch a startup, business, or SaaS website, including all essential sections, components, and pages.
+A **VIVATEL** é uma plataforma tecnológica focada em **conectividade, cloud, segurança digital e formação de talento**, criada para impulsionar a transformação digital em Angola e fortalecer a soberania tecnológica nacional.
 
-If you're looking for a high-quality and visually appealing, feature-rich Next.js Template for your next startup, SaaS, or business website, this is the perfect choice and starting point for you!
+Este repositório contém o **website institucional da VIVATEL**, desenvolvido com **Next.js e Tailwind CSS**, projetado para ser rápido, escalável, moderno e alinhado às melhores práticas globais.
 
-### ✨ Key Features
+---
 
-- Crafted for Startup and SaaS Business
-- Next.js and Tailwind CSS
-- All Essential Business Sections and Pages
-- High-quality and Clean Design
-- Dark and Light Version
-- TypeScript Support
-and Much More ...
+## 🌍 Visão
 
-### 🙌 Detailed comparison between the Free and Pro versions of Startup
+Conectar governo, empresas e setores críticos a uma base tecnológica **segura, resiliente e preparada para o futuro**, promovendo inovação local, independência digital e crescimento sustentável.
 
-| Feature             | Free | Pro |
-|---------------------|------------|----------|
-| Next.js Landing Page             | ✅ Yes      | ✅ Yes      |
-| All The Integrations - Auth, DB, Payments, Blog and many more ...             | ❌ No      | ✅ Yes |
-| Homepage Variations             | 1      | 2 |
-| Additional SaaS Pages and Components             | ❌ No      | ✅ Yes |
-| Functional Blog with Sanity       | ❌ No      | ✅ Yes |
-| Use with Commercial Projects            | ✅ Yes      | ✅ Yes      |
-| Lifetime Free Updates             | ✅ Yes      | ✅ Yes |
-| Email Support       | ❌ No         | ✅ Yes       |
-| Community Support         | ✅ Yes         | ✅ Yes       |
+---
 
-### [🔥 Get Startup Pro](https://nextjstemplates.com/templates/saas-starter-startup)
+## ✨ Principais Funcionalidades
 
-[![Startup Pro](https://raw.githubusercontent.com/NextJSTemplates/startup-nextjs/main/startup-pro.webp)](https://nextjstemplates.com/templates/saas-starter-startup)
+- Website institucional moderno e responsivo
+- Arquitetura baseada em **Next.js**
+- Estilização com **Tailwind CSS**
+- Suporte a **Dark Mode e Light Mode**
+- Estrutura escalável e preparada para cloud
+- Páginas institucionais completas:
+  - Home
+  - Sobre a Empresa
+  - Serviços
+  - Blog / Insights
+  - Contactos
+- Código limpo, modular e de fácil manutenção
 
-Startup Pro - Expertly crafted for fully-functional, high-performing SaaS startup websites. Comes with with Authentication, Database, Blog, and all the essential integrations necessary for SaaS business sites.
+---
 
-- [🚀 View Free Demo](https://startup.nextjstemplates.com/)
+## 🧱 Stack Tecnológica
 
-- [🚀 View Pro Demo](https://startup-pro.nextjstemplates.com/)
+- **Next.js** (App Router / Pages Router)
+- **React**
+- **Tailwind CSS**
+- **TypeScript** (quando aplicável)
+- **Vercel / Netlify Ready**
 
-- [📦 Download](https://nextjstemplates.com/templates/startup)
+---
 
-- [🔥 Get Pro](https://nextjstemplates.com/templates/saas-starter-startup)
+## 🚀 Objetivo do Projeto
 
-- [🔌 Documentation](https://nextjstemplates.com/docs)
+Este projeto serve como:
+- Website oficial da **VIVATEL**
+- Base para futuras integrações:
+  - Blog institucional
+  - Portais de serviços
+  - Plataformas educacionais (STEM)
+  - Soluções cloud e digitais
 
-### ⚡ Deploy Now
+---
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNextJSTemplates%2Fstartup-nextjs)
+## 📦 Instalação Local
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/NextJSTemplates/startup-nextjs)
+```bash
+# Clonar o repositório
+git clone https://github.com/seu-usuario/vivatel-website.git
 
-### 📄 License
+# Entrar no projeto
+cd vivatel-website
 
-Startup is 100% free and open-source, feel free to use with your personal and commercial projects.
+# Instalar dependências
+npm install
 
-### 💜 Support
+# Executar em modo desenvolvimento
+npm run dev
 
-If you like the template, please star this repository to inspire the team to create more stuff like this and reach more users like you!
 
-### ✨ Explore and Download - Free [Next.js Templates](https://nextjstemplates.com)
+http://localhost:3000
 
-### Update Log
 
-**03 December 2025**
+⚡ Deploy
 
-- Upgrade to Next.js 16
-- Fixed video modal issue
+A aplicação pode ser facilmente publicada em plataformas modernas de cloud.
 
-**10 April 2025**
+Deploy com Vercel
 
-- Fix peer deps issue with Next.js 15
-- Upgrade to tailwind v4
-- Refactored blog cards for handling edge cases(text ellipsis on bio, keeping author details at the bottom etc.)
-- Re-wrote blog details page with icons separation, fallback author image and better markup.
-- Fixed duplicate key errors on homepage.
-- Separated icons on theme-switcher button, and refactored scroll-to-top button.
+Deploy com Netlify
 
-**29 Jan 2025**
+🔐 Segurança & Boas Práticas
 
-- Upgraded to Next.js 15
-# VivaTel-Site
+Estrutura preparada para HTTPS
+
+Separação clara de componentes
+
+Fácil integração com autenticação, APIs e serviços externos
+
+Código auditável e escalável
+
+📄 Licença
+
+Este projeto é de uso institucional da VIVATEL.
+O código pode ser reutilizado internamente para fins corporativos e estratégicos.
+
+🤝 Contribuição
+
+Contribuições internas são bem-vindas:
+
+Melhorias de UI/UX
+
+Otimizações de performance
+
+Conteúdo institucional
+
+Integrações futuras
+
+💙 Sobre a VIVATEL
+
+A VIVATEL acredita que o futuro digital de Angola deve ser:
+
+Seguro
+
+Soberano
+
+Inclusivo
+
+Construído localmente
+
+Tecnologia que conecta.
+Inovação que transforma.
+
+© VIVATEL — Todos os direitos reservados.
